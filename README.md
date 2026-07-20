@@ -25,28 +25,7 @@
 
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suhaas&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaas&layout=compact&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Suhaas&hide_border=true" />
-
-</div>
-
----
-
 <!-- Contribution snake — requires the GitHub Action described below -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Suhaas/Suhaas/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suhaas&style=flat-square&color=blueviolet" alt="profile views" />
 </div>
