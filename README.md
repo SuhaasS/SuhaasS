@@ -23,10 +23,3 @@
 <img src="https://skillicons.dev/icons?i=ts,python,cpp,nodejs,nestjs,gcp,kafka,postgres,docker,git,linux,react" />
 </p>
 
----
-
-### 🐍 Contribution graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SuhaasS/SuhaasS/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
