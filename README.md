@@ -25,8 +25,8 @@
 
 ---
 
-### 📈 Activity
+### 🐍 Contribution graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhaasS&theme=github-dark&hide_border=true&area=true" alt="SuhaasS's activity graph" />
+<img src="https://raw.githubusercontent.com/SuhaasS/SuhaasS/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
