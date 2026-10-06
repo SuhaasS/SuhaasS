@@ -1,25 +1,18 @@
-<!-- Typing header animation -->
 <div align="center">
 
-<a href="https://github.com/SuhaasS">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suhaas+%F0%9F%91%8B;CS+%40+UC+Irvine;Founder+%26+Engineer+%40+PreSage;I+ship+production+ML+%26+AI+pipelines" alt="Typing SVG" />
-</a>
+<h3><code>suhaas@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" />
+
+<br><br>
+
+<h3><code>suhaas@github ~ $ whoami</code></h3>
+<img src="./info-card.svg" width="860" alt="Suhaas Surapaneni: AI Engineer Intern at Pindrop Security, Founder and Engineer at PreSage.ai, CS at UC Irvine" />
+
+<br><br>
+
+<h3><code>suhaas@github ~ $ ls ./links</code></h3>
+
+<a href="https://www.linkedin.com/in/suhaas-surapaneni/">linkedin</a> ·
+<a href="https://github.com/SuhaasS?tab=repositories">repos</a>
 
 </div>
-
----
-
-<!-- Social badges — replace the hrefs with your real links -->
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🛠️ Tech stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ts,python,cpp,nodejs,nestjs,gcp,kafka,postgres,docker,git,linux,react" />
-</p>
-

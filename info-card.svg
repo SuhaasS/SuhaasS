@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 628 506" width="628" height="506" role="img" aria-label="About Suhaas Surapaneni">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #c9d1d9; }
+.key { fill: #58a6ff; font-weight: 600; }
+.user { fill: #39d353; font-weight: 700; font-size: 14px; }
+.dim { fill: #7d8590; }
+.title { font-size: 12px; fill: #7d8590; }
+.l { opacity: 0; animation: print .4s ease-out both; }
+@keyframes print { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .l { animation: none; opacity: 1; } }
+</style>
+<rect x=".5" y=".5" width="627" height="505" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="18" cy="17" r="5" fill="#ff5f56"/><circle cx="34" cy="17" r="5" fill="#ffbd2e"/><circle cx="50" cy="17" r="5" fill="#27c93f"/>
+<text class="title" x="314.0" y="21" text-anchor="middle">suhaas@github: ~</text>
+<g class="l" style="animation-delay:0.35s"><text x="22" y="58"><tspan class="user">suhaas</tspan><tspan class="dim">@</tspan><tspan class="user">github</tspan></text><text class="dim" x="22" y="75">-------------</text></g>
+<g class="l" style="animation-delay:0.44s"><text class="key" x="22" y="100">Now</text><text x="126" y="100">AI Engineer Intern @ Pindrop Security</text></g>
+<g class="l" style="animation-delay:0.53s"><text x="126" y="121">Founder &amp; Engineer @ PreSage.ai</text></g>
+<g class="l" style="animation-delay:0.62s"><text class="key" x="22" y="142">Prev</text><text x="126" y="142">Software Engineering Intern @ Zyprova</text></g>
+<g class="l" style="animation-delay:0.71s"><text class="key" x="22" y="163">School</text><text x="126" y="163">B.S. Computer Science @ UC Irvine, '28</text></g>
+<g class="l" style="animation-delay:0.80s"><text class="key" x="22" y="194">Focus</text><text x="126" y="194">agent observability, LLM &amp; agent evaluation,</text></g>
+<g class="l" style="animation-delay:0.89s"><text x="126" y="215">harness optimization</text></g>
+<g class="l" style="animation-delay:0.98s"><text class="key" x="22" y="236">Stack</text><text x="126" y="236">Python, TypeScript, C++, SQL</text></g>
+<g class="l" style="animation-delay:1.07s"><text x="126" y="257">LangGraph, FastAPI, React, Kafka, Redis</text></g>
+<g class="l" style="animation-delay:1.16s"><text x="126" y="278">GCP, AWS, PostgreSQL, Docker</text></g>
+<g class="l" style="animation-delay:1.25s"><text class="key" x="22" y="309">Highlights</text><text x="126" y="309">cut model spend 81% with LLM observability + eval</text></g>
+<g class="l" style="animation-delay:1.34s"><text x="126" y="330">multi-agent orchestrator: issue -&gt; PR, 85% success</text></g>
+<g class="l" style="animation-delay:1.43s"><text x="126" y="351">root-cause agent cut debugging time 80%</text></g>
+<g class="l" style="animation-delay:1.52s"><text x="126" y="372">doc pipeline 90% faster, $50K revenue</text></g>
+<g class="l" style="animation-delay:1.61s"><text class="key" x="22" y="403">Building</text><text x="126" y="403">AgentRL: agent observability &amp; eval SDK</text></g>
+<g class="l" style="animation-delay:1.70s"><text x="126" y="424">autonomous equity trading agent</text></g>
+<g class="l" style="animation-delay:1.79s"><text class="key" x="22" y="455">Contact</text><text x="126" y="455">linkedin.com/in/suhaas-surapaneni</text></g>
+<g class="l" style="animation-delay:1.88s"><rect x="126" y="470" width="20" height="14" rx="3" fill="#ff5f56"/><rect x="150" y="470" width="20" height="14" rx="3" fill="#ffbd2e"/><rect x="174" y="470" width="20" height="14" rx="3" fill="#27c93f"/><rect x="198" y="470" width="20" height="14" rx="3" fill="#58a6ff"/><rect x="222" y="470" width="20" height="14" rx="3" fill="#bc8cff"/><rect x="246" y="470" width="20" height="14" rx="3" fill="#39d353"/><rect x="270" y="470" width="20" height="14" rx="3" fill="#c9d1d9"/><rect x="294" y="470" width="20" height="14" rx="3" fill="#7d8590"/></g>
+</svg>
