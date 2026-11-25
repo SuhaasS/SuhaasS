@@ -1,13 +1,13 @@
 {
  "username": "SuhaasS",
- "total": 2493,
- "current_streak": 50,
- "longest_streak": 50,
+ "total": 2494,
+ "current_streak": 51,
+ "longest_streak": 51,
  "best_day": {
   "date": "2026-08-20",
   "count": 187
  },
- "active_days": 173,
+ "active_days": 174,
  "monthly": {
   "2025-11": 2,
   "2025-12": 14,
@@ -21,7 +21,7 @@
   "2026-08": 744,
   "2026-09": 777,
   "2026-10": 406,
-  "2026-11": 279
+  "2026-11": 280
  },
  "days": [
   {
@@ -1856,6 +1856,11 @@
   },
   {
    "date": "2026-11-24",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-25",
    "level": 0,
    "count": 0
   }
